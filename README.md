@@ -27,4 +27,4 @@ The repository for my book "Catatan Fisika Dasar" and accompanying python codes.
 
 
 
-![Visitor Count]([https://komarev.com](https://github.com/davidteaching/buku-fisika-dasar/))
+![Visitor Count](https://github.com/davidteaching/buku-fisika-dasar/)
